@@ -20,3 +20,10 @@ dogAnimal = animal.dog('Lucy',4)
 dogAnimal.show()
 dogAnimal.run()
 dogAnimal.go()
+
+# call cat class
+catAnimal = animal.cat('Bombi')
+catAnimal.show()
+catAnimal.run()
+catAnimal.go()
+catAnimal.roam()
